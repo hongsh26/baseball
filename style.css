@@ -6,6 +6,11 @@
   background-image: url("image/stadium.jpg");
   background-size: cover;
 }
+#lineup {
+  background-image: url("image/field.jpg");
+  background-size: cover;
+  background-attachment: scroll;
+}
 #header {
   height: 75px;
   position: fixed;
@@ -109,4 +114,13 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+}
+.player {
+  position: absolute;
+  width: 70px;
+  height: 90px;
+}
+#Second {
+  background: url(image/2B.png);
+  background-size: cover;
 }
