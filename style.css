@@ -9,7 +9,7 @@
 #lineup {
   background-image: url("image/field.jpg");
   background-size: cover;
-  background-attachment: scroll;
+  overflow-y: scroll;
 }
 #header {
   height: 75px;
@@ -117,8 +117,20 @@
 }
 .player {
   position: absolute;
-  width: 70px;
-  height: 90px;
+  height: 30px;
+  width: 110px;
+  font-size: 14px;
+  margin: 9px;
+  background-color: #89aa71;
+  border-radius: 10px;
+}
+.player a {
+  align-items: center;
+  border: none;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
 }
 #Second {
   background: url(image/2B.png);
