@@ -121,7 +121,7 @@
   width: 110px;
   font-size: 14px;
   margin: 9px;
-  background-color: #89aa71;
+  background-color: #5a6650;
   border-radius: 10px;
 }
 .player a {
@@ -131,8 +131,4 @@
   text-decoration: none;
   font-weight: bold;
   cursor: pointer;
-}
-#Second {
-  background: url(image/2B.png);
-  background-size: cover;
 }
