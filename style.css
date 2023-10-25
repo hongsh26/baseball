@@ -30,7 +30,7 @@
   float: left;
   list-style-type: none;
 }
-#txt {
+.txt {
   -webkit-text-stroke: 0.5px black;
 }
 .menu a {
