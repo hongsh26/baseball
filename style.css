@@ -199,42 +199,32 @@ img {
   padding: 0;
 }
 .one {
-  /* margin-top: 330px; */
+  padding: 10%;
   display: block;
   text-align: center;
-  padding: 0 50px;
   font-weight: bold;
-  /* float: right; */
   margin-right: 130px;
-  padding: 50px;
 }
 .two {
-  /* margin-top: 220px; */
   display: block;
   text-align: center;
-  padding: 0 50px;
   font-weight: bold;
-  /* float: right; */
   margin-right: 130px;
-  padding: 50px;
 }
 .three {
-  /* margin-top: 220px; */
+  padding-bottom: 15%;
   display: block;
   text-align: center;
-  padding: 0 50px;
   font-weight: bold;
-  /* float: right; */
   margin-right: 130px;
-  padding: 50px;
 }
 .four {
-  /* margin-top: 220px; */
-  display: block;
+  padding-bottom: 10%;
+  display: inline-block;
   text-align: center;
-  padding: 0 50px;
   font-weight: bold;
-  /* float: right; */
-  margin-right: 9%;
-  padding: 50px;
+  margin-right: 130px;
+}
+.box {
+  padding-top: 5%;
 }
