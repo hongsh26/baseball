@@ -198,3 +198,43 @@ img {
 .tablefoot {
   padding: 0;
 }
+.one {
+  /* margin-top: 330px; */
+  display: block;
+  text-align: center;
+  padding: 0 50px;
+  font-weight: bold;
+  /* float: right; */
+  margin-right: 130px;
+  padding: 50px;
+}
+.two {
+  /* margin-top: 220px; */
+  display: block;
+  text-align: center;
+  padding: 0 50px;
+  font-weight: bold;
+  /* float: right; */
+  margin-right: 130px;
+  padding: 50px;
+}
+.three {
+  /* margin-top: 220px; */
+  display: block;
+  text-align: center;
+  padding: 0 50px;
+  font-weight: bold;
+  /* float: right; */
+  margin-right: 130px;
+  padding: 50px;
+}
+.four {
+  /* margin-top: 220px; */
+  display: block;
+  text-align: center;
+  padding: 0 50px;
+  font-weight: bold;
+  /* float: right; */
+  margin-right: 9%;
+  padding: 50px;
+}

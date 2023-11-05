@@ -77,12 +77,12 @@ a {
   color: #d2d2d2;
 }
 #create-form :nth-child(3) {
-  color: black;
+  color: #89aa71;
 }
 #create-form label {
   color: #999999;
 }
-#create-form :nth-child(6) {
+#create-form :nth-child(7) {
   color: #fff;
   font-size: 16px;
   background-color: #89aa71;
